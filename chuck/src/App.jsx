@@ -1,4 +1,4 @@
-import React from 'CHUCK-NORRIS';
+import React from 'react';
 import ChuckNorris from './ChuckNorris';
 
 function App() {
